@@ -2,11 +2,11 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-}
 
-.app-header h1 {
-  flex-grow: 1;
-  font-size: 5rem;
-  font-weight: lighter;
-  color: rgb(249, 224, 249);
+  h1 {
+    flex-grow: 1;
+    font-size: 5rem;
+    font-weight: lighter;
+    color: rgb(249, 224, 249);
+  }
 }
