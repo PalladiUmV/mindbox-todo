@@ -1,0 +1,22 @@
+.buttons {
+	display: flex;
+	width: 230px;
+	justify-content: space-around;
+	margin: 5px auto 0 auto;
+
+	button {
+		font-weight: lighter;
+	}
+}
+
+.status-filter {
+	display: flex;
+	align-items: baseline;
+
+}
+
+h2 {
+	font-size: 1.1rem;
+	color: silver;
+	font-weight: lighter;
+}

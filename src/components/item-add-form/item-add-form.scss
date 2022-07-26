@@ -1,0 +1,13 @@
+.control {
+  padding: .7rem 1.8rem;
+  font-style: italic;
+  color: rgb(205, 199, 199);
+  font-size: 1.1rem;
+  width: 100%;
+  border: none;
+}
+
+.control:focus {
+  color: black;
+  outline: none;
+}
